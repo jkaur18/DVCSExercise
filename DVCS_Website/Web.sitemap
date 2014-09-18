@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode url="" title="Practice"  description="This is the root of the site map (do not display)">
+    <siteMapNode url="~/Default.aspx" title="Home"  description="Home Page of website" />
+    <siteMapNode url="About" title="About"  description="ABout the Company" />
+    <siteMapNode url="~/Contact" title="Contact"  description="Contact info of Company" />
+   
+
+    <siteMapNode title="Practice" description="Practise Menu">
+      <siteMapNode url="~/SitemapPages/practice.aspx" title="practice" description="practice"/>
+      <siteMapNode url="~/SitemapPages/Practise2.aspx" title="Practice2" description="Practice2"/>
+    </siteMapNode>
+
+   
+  </siteMapNode>
+</siteMap>
